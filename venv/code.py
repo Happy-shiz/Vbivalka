@@ -3,7 +3,7 @@ import pandas as pd
 import pyautogui
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-pass 
+
 
 # Загрузка данных из Excel
 file_path = r"D:\safe gitt\Vbivalka\venv\Для заполнение карточки.xlsx"  # Укажите путь к файлу
